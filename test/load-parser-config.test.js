@@ -1,5 +1,5 @@
 import test from "ava";
-import importFrom from "import-from-esm";
+import importFrom from "import-from";
 import sinon from "sinon";
 import loadParserConfig from "../lib/load-parser-config.js";
 
